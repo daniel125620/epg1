@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
+
+<channel id="AandE.br">
+    <display-name>AE HD</display-name>
+    <icon src="https://iptv-epg.org/images/W6_TKw7_WLthLU59silVhAapG1sbuZWOfxwBOBTuAnOdW-6-8ppkCbdOx0BAcYM-vCMkENRLsC_DAkMkt0baiz2RY6Kz4_usod9aRn7d"/>
+  </channel>
+
+  <channel id="AnimalPlanet.br">
+    <display-name>ANIMAL PLANET HD</display-name>
+    <icon src="https://iptv-epg.org/images/RQal8StQa-cJV-yi3DxT3P_xueWj4mDGBZjBI0VWAhI5MmtXj7TC0NPJfC7jIk5dJKwnWxkl7zApAI0ixlHQn_X4J1VTjGdturNIeADJE-mqyElzSQ"/>
+  </channel>
+  
+ <channel id="AXN.br">
+    <display-name>AXN HD</display-name>
+    <icon src="https://iptv-epg.org/images/S2fULxieTpLg4xnj8UZXMSj3eRyENSFsKa340SXe8e4GGdXT6JQ7gpo6gsgCkKHElYJYJFYNrmZldK7mm6pMfozgEgzksT_jHzvxbg"/>
+  </channel>
+
+</tv>
